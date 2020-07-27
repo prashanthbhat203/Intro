@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097968822994",
+    "firebase_url": "https://intro-dfac4.firebaseio.com",
+    "project_id": "intro-dfac4",
+    "storage_bucket": "intro-dfac4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097968822994:android:64517c2ce3d5002caa5b0b",
+        "android_client_info": {
+          "package_name": "com.example.intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097968822994-c6d0e370c22rcb9uruej9i5a3itc9l5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intro",
+            "certificate_hash": "1c9dde2470272af3b9e142941a61c95ee53a3f82"
+          }
+        },
+        {
+          "client_id": "1097968822994-2o29i19rf5g0bcjs16bf664574o84on7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWkCQyiEy4pMjyh21MgWauxuzXVf-qNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097968822994-2o29i19rf5g0bcjs16bf664574o84on7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
